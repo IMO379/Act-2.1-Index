@@ -1,0 +1,26 @@
+h1{
+    text-align:"center"
+}
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border:"20%"
+}
+
+#customers td, #customers th {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #cd32f4;}
+
+#customers tr:hover {background-color: #d7d7c4;}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #52cceb;
+    color: black;
+}

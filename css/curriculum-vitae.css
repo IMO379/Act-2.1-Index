@@ -1,0 +1,82 @@
+body {
+    background-color: hsl(90, 4%, 73%);
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    color: rgb(15, 35, 145);
+    font-size: 250%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    background-color:rgb(47, 183, 201);
+    color: #000000;
+    font-size: 200%;
+    text-decoration: underline;
+}
+
+h3 {
+    background-color: hsl(281, 71%, 28%);
+    color: white;
+    font-size: 130%;
+    font-style: italic;
+}
+h5 {
+    font-size: 130%;
+
+}
+p {
+    background-color:white;
+}
+
+em {
+    color: hsl(0, 100%, 50%);
+    font-style: normal;
+    font-weight: bold;
+}
+summary {
+    font-size: 120%;
+  }
+span.par {
+    background-color: white;
+    }
+  
+span.impar {
+    background-color: hsl(325, 100%, 90%);
+  }
+h6{
+    text-align:center;
+    border-image-repeat: round;
+}
+p.estilo-3 {
+    text-align:rigth;
+    border: white 3px solid;
+    border-radius: 30px;
+    padding: 20px;
+    background-color: hsl(207, 100%, 25%);
+    color: white;
+    font-size:200%
+  }
+p.intro {
+    border: black 7px solid;
+    border-radius: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 20px;
+  }
+.estilo-4{
+    text-align: center;
+    font-size: 100%;
+}
+strong {
+    color: hsl(0, 100%, 50%);
+    font-weight: normal;
+}
+address {
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+}
